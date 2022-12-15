@@ -1,9 +1,9 @@
 
 //Andy Wang and Aakarsh Mamawala 
 import java.util.*;
-//import interfascia.*;
+import interfascia.*;
 
-/*
+
 
 public class Deck {
     //4 types of chance cards, 4 types of community chest 
@@ -83,4 +83,3 @@ public class Deck {
 
 }
 
-*/
