@@ -1,5 +1,3 @@
-/*
-
 //Andy Wang and Aakarsh Mamawala 
 import java.util.*;
 //import interfascia.*;
@@ -37,17 +35,3 @@ void startGame() {
 }
 
 
-//create class that checks what kind of chance/community card received, then returns output of money that should be gain or lost to player 
-
-
-
-
-    
-   
-*/
-
-void setup() {
-    size(100,100);
-    rect(50,50,25,25);
-    background(23);
-}
